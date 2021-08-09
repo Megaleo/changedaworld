@@ -9,6 +9,7 @@ Have you ever wanted to create a quick and dirty [Change Da World](https://knowy
 
 - [Python 3+](https://www.python.org/)
 - [MoviePy](https://zulko.github.io/moviepy/index.html)
+- ["Change Da World" original clip](https://www.youtube.com/watch?v=DPEvF8l9LDM) (For now, the settings are carefully adjusted to this youtube video in particular)
 
 ## Usage
 
